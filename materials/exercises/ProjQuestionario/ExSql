@@ -1,0 +1,5 @@
+select Pergunta.Pergunta, Resposta.Resposta, Resposta.Classificacao 
+from Pergunta 
+INNER JOIN Resposta ON Pergunta.idPergunta= Resposta.idPergunta
+WHERE Pergunta.Tema = 'Tema 1'; 
+

@@ -1,0 +1,71 @@
+Perguntas para o questinário:
+
+1- As siglas "QWERTY" ou “AZERTY” e "DVORAK" são referente a que?
+
+a. Marcas de Memória RAM;
+b. Cheats do GTA;
+c. Modelos Padrão de Teclado; ---------
+d. Senhas Padrão do Linux;
+
+2- Quais dos grupos de ciglas abaixo correspondem só a extensões usadas em Formatos de Video?
+
+a. .MP3/.WMA/.WAVE
+b. .DVD/.EXE/.AVI
+c. .AVI/.MPG/.JPG
+d. .RMVB/.AVI/.MOV --------
+
+3- Pela lógica booleana, em conjunto a números de base 2, *binários, as equações geram resultados de mesmo valor semântico aos de base 10. Qual das "equações" binárias esta correta? Cálculo e Resposta em Binário.
+
+a. 1+1=2
+b. 1x10=1
+c. 1+1=10 --------
+d. 1+10=1
+
+4- O surto de ataques hackers liderados pelo grupo LulzSec, que ocorreu inclusive no Brasil, derrubando sites do governo, foi baseado em que tipo de ataque?
+
+a. Brute Force - Força Bruta;
+b. DDoS - Negação de serviço; --------
+c. Trojan - Cavalo de Tróia;
+d. Port Scanning - Escaneamento de Portas;
+
+5- (...) if (nota<=5) writeln("Aluno Reprovado"); else writeln("Aluno Aprovado"); (...) end. Seguindo o código em PASCAL acima, o aluno SÓ é aprovado caso?
+
+a. Nota = 5;
+b. Nota < 5;
+c. Nota >= 5;
+d. Nenhuma das Anteriores --------
+
+6- Qual dos códigos abaixo possui a mesma sintaxe e funcionamento tanto para C quanto para PASCAL?
+
+a. delay(); --------
+b. write();
+c. scan();
+d. print();
+
+7- Uma rede entre computadores não serve para:
+
+a. Transferir Arquivos;
+b. Compartilhar Impressoras;
+c. Compartilhar Internet;
+d. Deixar o Computador mais rápido; --------
+
+8- Em teoria, qual das configurações abaixo (PROCESSADOR/MEMÓRIA RAM) é mais "poderosa"?
+
+a. Core i7 2.6GHz | 4GB DDR
+b. Core 2 Duo 2 GHz | 2GB DDRII
+c. Dual Core 4GHz| 8GB DDR
+d. Core i5 3.6GHz | 8GB DDR2II -------
+
+9- Pela fórmula 2 elevado na N é possível descobrir quantos números pode se ter em binário pelo número de digitos(Bits). Com 8 Bits, até que número posso contar em binário?
+
+a. 256
+b. 512
+c. 1023
+d. 255 ---------
+
+10- O número 010010(2) representa que número decimal X(10)?
+
+a. 10
+b. 10010
+c. 18 ----------
+d. 16
