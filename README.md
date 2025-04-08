@@ -31,3 +31,8 @@ Upon completion of this course, students should be able to:
 - **Final Exam (Normal, Resit, or Special Exam Periods)**:
     - Written exam: 60%.
     - Practical component: 40%.
+ 
+
+-----
+
+ For more course-related assignments, check out the [Engenharia Informatica repository](https://github.com/danielmribeiro/engenharia-informatica).
